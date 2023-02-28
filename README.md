@@ -1,3 +1,3 @@
-# General Repository
+# Machine Learning
 CS985
-CS952
+
